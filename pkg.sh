@@ -11,9 +11,10 @@ echo "
                                        
 " lolcat
 echo "======================================="
-echo " ('\033[1;91m[\033[1;92m1\033[1;91m]\033[1;97m   Tools Name : BASIC PACKAGE INSTALL"
-echo " ('\033[1;91m[\033[1;92m1\033[1;91m]\033[1;97m   Author : TUHIN AHMED"
-echo " ('\033[1;91m[\033[1;92m1\033[1;91m]\033[1;97m   FB ACCOUNT: MOHAMMAD TUHIN AHMED"
+echo "  Tools Name : BASIC PACKAGE INSTALL"
+echo "  Author : TUHIN AHMED"
+echo "   FB ACCOUNT: MOHAMMAD TUHIN AHMED"
+echo" FB ACCOUNT LINK: https://www.facebook.com/tuhin.vai.nasa.hocker.xode.na"
 echo "======================================="
 termux-setup-storage
 
